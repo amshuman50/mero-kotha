@@ -1,0 +1,11 @@
+{
+  "name": "recommendation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "python main.py",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
